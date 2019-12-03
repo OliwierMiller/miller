@@ -1,4 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 #cytowanie "" double quote
 echo -e "Polecenie \t ls\n"
 
@@ -28,5 +29,7 @@ echo ${tab[2]}
 echo ${tab[*]}
 
 
+=======
+>>>>>>> 31ce7fd42f25838c44d9db1dfdc8af6023631018
 
 
