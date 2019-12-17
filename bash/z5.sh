@@ -25,15 +25,21 @@ do
     echo ${i}
 done
 
-#loop while
+##################### loop while #####################
+j=1
+while [ ${j} -le 50 ]; do 
+    echo -ne "\0227"
+    j=$[j+1]
+done
 
 j=1
-while [ ${j} -lt 5 ];do 
-    echo -e "\5"
+while [ ${j} -le 20 ]; do 
+    echo -e "\0227"
     j=$[j+1]
 done
 
-while [ ${j} -lt 5 ];do 
-    echo -e "\3"
-    j=$[j+1]
-done
+##################### loop for #####################
+
+
+
+

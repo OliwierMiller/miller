@@ -1,0 +1,66 @@
+[33mcommit d88bce10b67e0b3a0a97e6b5b43e011625591e0e[m
+Author: Marcin Wysocki <wysockib00@gmail.com>
+Date:   Thu Dec 12 09:39:55 2019 +0100
+
+    loop for
+
+[33mcommit 656420cc40faba361cc4a6c7eec4f845fabbc315[m
+Author: Marcin Wysocki <wysockib00@gmail.com>
+Date:   Thu Dec 12 08:37:55 2019 +0100
+
+    warunki
+
+[33mcommit 1879d7b145a12e31db8d16c950edadb5f69f210e[m
+Author: Marcin Wysocki <wysockib00@gmail.com>
+Date:   Thu Dec 12 08:36:52 2019 +0100
+
+    warunki
+
+[33mcommit a9fd9135a10fb9d7ff3f3682e1783990b2ea6530[m
+Author: Marcin Wysocki <wysockib00@gmail.com>
+Date:   Thu Dec 12 08:26:16 2019 +0100
+
+    warunki
+
+[33mcommit 977664a3ca5a902795f31350bb7322e4c5623746[m
+Author: Marcin Wysocki <wysockib00@gmail.com>
+Date:   Mon Dec 9 12:30:06 2019 +0100
+
+    instrukcja case
+
+[33mcommit 7ed4097e4cb7034ff78aa60e004f94ffa809158b[m
+Merge: 248aeda 31ce7fd
+Author: Marcin Wysocki <wysockib00@gmail.com>
+Date:   Tue Dec 3 09:32:44 2019 +0100
+
+    tablice
+
+[33mcommit 248aeda0427894d90a7b426a3163302189f021df[m
+Author: Marcin Wysocki <wysockib00@gmail.com>
+Date:   Tue Dec 3 09:30:27 2019 +0100
+
+    tablice
+
+[33mcommit 31ce7fd42f25838c44d9db1dfdc8af6023631018[m
+Author: Marcin Wysocki <wysockib00@gmail.com>
+Date:   Thu Nov 21 09:39:58 2019 +0100
+
+    Version 0.0.3
+
+[33mcommit b1ed4dd82c63bb7dade86d7000cbbc10f0cc7ed9[m
+Author: Oliwier Miller <oliwier123.miller@onet.pl>
+Date:   Thu Nov 14 09:22:10 2019 +0100
+
+    Version 0.0.1
+
+[33mcommit 319beae16dca3b219ac7f3bb6f457206c668ee46[m
+Author: OliwierMiller <57438691+OliwierMiller@users.noreply.github.com>
+Date:   Thu Nov 14 08:42:03 2019 +0100
+
+    Update README.md
+
+[33mcommit 72eb6e0c8c2572329fa5d0e7d691df81e093599a[m
+Author: OliwierMiller <57438691+OliwierMiller@users.noreply.github.com>
+Date:   Thu Nov 14 08:25:37 2019 +0100
+
+    Initial commit
