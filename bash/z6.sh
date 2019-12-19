@@ -19,6 +19,6 @@ do
 	"File") echo "Wybrano opcję ${opcja}" ;;
 	"Edit") echo "Wybrano opcję ${opcja}" ;;
 	"Quit") exit ;;
-	*) echo "Error fbi zostało wezwane" ;;
+	*) echo "Error 404" ;;
     esac
 done
